@@ -1,4 +1,4 @@
-# Codeit
+# LearnFlow
 
 ## Project Description
 LearnFlow, a full-stack web application using the MERN stack and OAuth 2.0 for secure Google sign-ins. The platform features role-based access control, where "Creators" can upload and post learning videos, and "Students" can view them. I designed a hierarchical comment system to support threaded discussions. For efficient media handling, AWS S3 and CDN were leveraged, with Pre-Signed URLs enabling direct uploads and enhancing performance.
